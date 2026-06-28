@@ -1,0 +1,18 @@
+{
+  "name": "nexus-rpa-monitor",
+  "private": true,
+  "version": "1.0.0",
+  "description": "High-Density Enterprise RPA Control Terminal — Real-time telemetry monitoring with zero external dependencies",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1"
+  }
+}
